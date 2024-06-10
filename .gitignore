@@ -1,3 +1,8 @@
+#Lefting out the bin and obj which contains the exe and debug 
+**/bin/
+**/obj/
+
+
 # Prerequisites
 *.d
 
@@ -33,9 +38,7 @@
 
 
 
-#Lefting out the bin and obj which contains the exe and debug 
-**/bin/
-**/obj/
+
 
 
 
